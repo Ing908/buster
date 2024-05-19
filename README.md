@@ -1,5 +1,5 @@
 <p align="center"><img width="128" height="128" src="https://i.imgur.com/uVpmR8l.png"></p>
-<h1 align="center">Buster: Captcha Solver for Humans</h1>
+<h1 align="center">Buster: Captcha Solver for Humans</h1> git config --global user.email "gnstapley@gmail.com"
 
 <p align="center">
   </br></br>
